@@ -1,2 +1,2 @@
 # Personal Project
-I had to copy the files from my private school repo.
+Project from my private school repo.
